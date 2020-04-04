@@ -57,6 +57,8 @@ namespace VizeFinalOrtalamaHesaplama
             //Veritabanı dersi vize ve final ortalamalarının label üzerinde gösterilmesi
             labelVeritabaniDersOrtalamasi.Text = veritabanivizeortalamasi.ToString() + veritabanifinalortalamasi.ToString();
 
+            MessageBox.Show("GitHub Değişiklik");
+
 
 
 
