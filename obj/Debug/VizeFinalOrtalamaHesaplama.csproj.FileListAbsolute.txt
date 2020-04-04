@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\CSharp\Odevler\VizeFinalOrtalamaHesaplama\VizeFinalOrtalamaHesaplama\bin\Debug\VizeFinalOrtalamaHesaplama.exe.config
+C:\Users\asus\Desktop\CSharp\Odevler\VizeFinalOrtalamaHesaplama\VizeFinalOrtalamaHesaplama\bin\Debug\VizeFinalOrtalamaHesaplama.exe
+C:\Users\asus\Desktop\CSharp\Odevler\VizeFinalOrtalamaHesaplama\VizeFinalOrtalamaHesaplama\bin\Debug\VizeFinalOrtalamaHesaplama.pdb
+C:\Users\asus\Desktop\CSharp\Odevler\VizeFinalOrtalamaHesaplama\VizeFinalOrtalamaHesaplama\obj\Debug\VizeFinalOrtalamaHesaplama.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\CSharp\Odevler\VizeFinalOrtalamaHesaplama\VizeFinalOrtalamaHesaplama\obj\Debug\VizeFinalOrtalamaHesaplama.Form1.resources
+C:\Users\asus\Desktop\CSharp\Odevler\VizeFinalOrtalamaHesaplama\VizeFinalOrtalamaHesaplama\obj\Debug\VizeFinalOrtalamaHesaplama.Properties.Resources.resources
+C:\Users\asus\Desktop\CSharp\Odevler\VizeFinalOrtalamaHesaplama\VizeFinalOrtalamaHesaplama\obj\Debug\VizeFinalOrtalamaHesaplama.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\CSharp\Odevler\VizeFinalOrtalamaHesaplama\VizeFinalOrtalamaHesaplama\obj\Debug\VizeFinalOrtalamaHesaplama.exe
+C:\Users\asus\Desktop\CSharp\Odevler\VizeFinalOrtalamaHesaplama\VizeFinalOrtalamaHesaplama\obj\Debug\VizeFinalOrtalamaHesaplama.pdb
